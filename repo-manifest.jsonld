@@ -33,8 +33,9 @@
     {
       "@id": "https://repolex.ai/r/PyO3/pyo3-async-runtimes/commit/74cd232b0606cd9e0dcab291bd10a8cadf69a1ed",
       "git:hexsha": "74cd232b0606cd9e0dcab291bd10a8cadf69a1ed",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v0.25.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.25.0",
+      "repolex:parsedAt": "2026-09-15T06:55:27.909931+00:00"
     },
     {
       "@id": "https://repolex.ai/r/PyO3/pyo3-async-runtimes/commit/5ce66d1df03cc6418b013efdcfd66bb5c668334a",
